@@ -1,0 +1,2 @@
+class ErrorSistema(Exception):
+    pass
